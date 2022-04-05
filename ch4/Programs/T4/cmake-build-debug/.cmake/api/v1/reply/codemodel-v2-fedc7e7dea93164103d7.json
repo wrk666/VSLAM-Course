@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "T4",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "disparity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-disparity-Debug-67e7ece589c2601a717f.json",
+					"name" : "disparity",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch4_camera_optimize/Francisrk-第4章作业/Programs/T4/cmake-build-debug",
+		"source" : "/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch4_camera_optimize/Francisrk-第4章作业/Programs/T4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

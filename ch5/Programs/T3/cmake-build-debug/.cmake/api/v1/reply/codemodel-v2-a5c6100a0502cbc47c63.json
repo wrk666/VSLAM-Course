@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "T3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "T3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T3-Debug-c7fcc1eb8ad02b0f19f8.json",
+					"name" : "T3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch5_特征点法视觉里程计/Francsirk-第5章作业/Programs/T3/cmake-build-debug",
+		"source" : "/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch5_特征点法视觉里程计/Francsirk-第5章作业/Programs/T3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

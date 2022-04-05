@@ -1,0 +1,4 @@
+/snap/clion/180/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/180/bin/ninja/linux/ninja -G Ninja /home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch4_camera_optimize/Francisrk-第4章作业/Programs/T_1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch4_camera_optimize/Francisrk-第4章作业/Programs/T_1/cmake-build-debug

@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "g2o_mine",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BAL_g2o::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BAL_g2o-Release-ac4967293c5ea611241c.json",
+					"name" : "BAL_g2o",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bal_common::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bal_common-Release-ac41ae4bd01afeba02d0.json",
+					"name" : "bal_common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "g2oCurveFitting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-g2oCurveFitting-Release-da443b724fee11ed0d79.json",
+					"name" : "g2oCurveFitting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "handmade_curvefitting_g2o::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-handmade_curvefitting_g2o-Release-dae2aafa7698a4fd7322.json",
+					"name" : "handmade_curvefitting_g2o",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch7_后端优化/Francisrk-ch7作业/g2o_mine/cmake-build-debug",
+		"source" : "/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch7_后端优化/Francisrk-ch7作业/g2o_mine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

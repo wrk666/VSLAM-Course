@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "g2o_mine",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Direct_BA_Mine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Direct_BA_Mine-Debug-57608c6f8e14b6406d0e.json",
+					"name" : "Direct_BA_Mine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "directBA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-directBA-Debug-cca66235e17451602f90.json",
+					"name" : "directBA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "directBA_withJacobian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-directBA_withJacobian-Debug-169f259ce4a2a17fd7bd.json",
+					"name" : "directBA_withJacobian",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch7_后端优化/Francisrk-ch7作业/Direct_BA/cmake-build-debug",
+		"source" : "/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch7_后端优化/Francisrk-ch7作业/Direct_BA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
