@@ -1,0 +1,2 @@
+CMake_practice（T4_1）是构建libhello.so库的工程，进入该文件夹下可测试库的构建。
+FindHello(T4_2)是测试通过find_package找到前一步构建的库的工程，在执行了第一步之后进入该文件夹下进行测试。

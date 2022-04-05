@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch1/Francisrk-第1章作业/T4/FindHello(T4_2)/src/main.cpp
+hello.h
+/home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch1/Francisrk-第1章作业/T4/FindHello(T4_2)/src/hello.h
+
+/usr/local/include/hello/hello.h
+

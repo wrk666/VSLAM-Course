@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/helloexe.dir/main.cpp.o  -o helloexe  -Wl,-rpath,/usr/local/lib /usr/local/lib/libhello.so 

@@ -1,0 +1,1 @@
+CMakeLists.txt为第7题的总工程的CMakeLists.txt，由于ORB-SLAM2工程较大，只上传了自己添加的部分，测试时，将MyVideo文件夹复制到ORB_SLAM2/Examples/路径下进行测试。

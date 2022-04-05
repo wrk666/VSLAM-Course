@@ -1,0 +1,31 @@
+/snap/clion/180/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/180/bin/ninja/linux/ninja -G Ninja /home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch1/Francisrk-第1章作业/T4/FindHello(T4_2)
+-- The C compiler identification is GNU 9.3.0
+-- The CXX compiler identification is GNU 9.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) at src/CMakeLists.txt:7:
+  Syntax Warning in cmake code at column 44
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at src/CMakeLists.txt:8:
+  Syntax Warning in cmake code at column 40
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found Hello: /usr/local/lib/libhello.so
+-- The HELLO_INCLUDE_DIR is:/usr/local/include/hello
+-- The HELLO_LIBRARY is:/usr/local/lib/libhello.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wrk/SLAM/DeepBlueCurriculum/VSLAM/ch1/Francisrk-第1章作业/T4/FindHello(T4_2)/cmake-build-debug

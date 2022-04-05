@@ -1,0 +1,2 @@
+FIND_PACKAGE(gflags REQUIRED)
+INSTALL(FILES hello.h DESTINATION include/hello)
